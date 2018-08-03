@@ -4,9 +4,11 @@ This is a project for the DXC Challenge.
 ---------------------------------------------------------------------------------------------------------------------------------------
 This repository have two folders and one .sql file:
 the folders are:
+
 Api_Rest:
 in this folder i build the rest api in slim php micro framework and MySQL are here the all process for create this rest api.
 In the scr folder into Api_Rest have some files they are:
+
 
 dependencies.php (here create the data base conection)
 routes.php (create the routes for the rest api)
