@@ -11,7 +11,9 @@ In the scr folder into Api_Rest have some files they are:
 
 
 dependencies.php (here create the data base conection)
+
 routes.php (create the routes for the rest api)
+
 settings.php (configure the parameters for do a server conection)
 
 WebSite:
@@ -53,7 +55,7 @@ Show a people info by the ssn register
 PUT	    users	  /update-lastname-by-id	/id
 Update a lastname by the id, the parameter for update a new lastname is: lastname + value
 
-if you want how work my rest api go to:
+If you want how work my rest api go to:
 https://pruebas.adimosa.com
 this site consume the rest api info about users stories from my website tests.mariomendezzuiga.com.
 In https://pruebas.adimosa.com you have a information about the routes and how can use it, here you can do all GET queries if you want to do POST, PUT or DELETE queries go to postman and write this url:
