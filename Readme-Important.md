@@ -36,8 +36,8 @@ Update a lastname by the id, the parameter for update a new lastname is: lastnam
 
 if you want how work my rest api go to:
 https://pruebas.adimosa.com
-this site consume the rest api info about users stories from my website http://tests.mariomendezzuiga.com.
-In https://pruebas.adimosa.com you have a information about the routes and how can use it, here you can do all GET queries if you want to doPOST, PUT or DELETE queries go to postman and write this url:
+this site consume the rest api info about users stories from my website tests.mariomendezzuiga.com.
+In https://pruebas.adimosa.com you have a information about the routes and how can use it, here you can do all GET queries if you want to do POST, PUT or DELETE queries go to postman and write this url:
 http://tests.mariomendezzuiga.com/public/users/all-people for explample.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
