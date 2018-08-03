@@ -1,5 +1,5 @@
 # BeChallengeMarioMZ
-Made by Mario Alberto Mendez Zuñiga
+Made by Mario Alberto Mendez ZuÃ±iga
 This is a project for the DXC Challenge.
 ---------------------------------------------------------------------------------------------------------------------------------------
 This repository have two folders and one .sql file:
