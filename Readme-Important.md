@@ -2,10 +2,27 @@
 Made by Mario Alberto Mendez Zuñiga
 This is a project for the DXC Challenge.
 ---------------------------------------------------------------------------------------------------------------------------------------
+This repository have two folders and one .sql file:
+the folders are:
+Api_Rest:
+in this folder i build the rest api in slim php micro framework and MySQL are here the all process for create this rest api.
+In the scr folder into Api_Rest have some files they are:
+
+dependencies.php (here create the data base conection)
+routes.php (create the routes for the rest api)
+settings.php (configure the parameters for do a server conection)
+
+WebSite:
+
+This is the website that consumes my web service, the files, index.php and process.php 
+has the necessary code to establish a connection from this website to the api rest.
+
+challenge.sql this is the file of the data base used for this project.
+
 You can test the rest api by a local way with a local server and http client how postman or
 go to: 
 
-http://tests.mariomendezzuiga.com/public/users/ 
+http://tests.mariomendezzuiga.com/public/users/all-people for example 
 
 After /users/ you have to write the rest route for do a querie, the routes and values are:
 
